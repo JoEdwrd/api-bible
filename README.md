@@ -1,2 +1,1 @@
 # api-bible
-# api-bible
